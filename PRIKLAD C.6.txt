@@ -1,0 +1,4 @@
+Výpis "cislo    druha mocnina    tretia mocnina"
+
+Pre i od 1 do 10 (int i = 1, i < 11, i++)
+    Výpis i, i^2, i^3

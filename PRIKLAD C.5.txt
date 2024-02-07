@@ -1,0 +1,7 @@
+zadaj cele cislo
+uloz cele cislo do premennej cislo1
+
+ak cislo1 nema pat cislic (cislo1.lenght != 5)
+	ukonci program 'break'
+cyklus ktory bude robit medzeri za kazdym cislom (int x = 0, x < cislo.leght, x++)
+	vypis cislo s indexom x (cislo1[x] + '' '')

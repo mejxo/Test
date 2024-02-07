@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root text="main()" comment="" type="program" style="nice">
+ <children>
+
+<instruction text="&#34;INPUT cislo1, cislo2&#34;" comment="" color="FFFFFF" rotated="0"></instruction>
+<alternative text="&#34;cislo2 % cislo2 == 0&#34;" comment="" color="FFFFFF">
+ <qTrue>
+
+<instruction text="&#34;OUTPUT cislo2 je delitelne cislom1&#34;" comment="" color="FFFFFF" rotated="0"></instruction>
+ </qTrue>
+ <qFalse>
+
+<instruction text="&#34;OUTPUT cislo2 nie je delitelne cislom1&#34;" comment="" color="FFFFFF" rotated="0"></instruction>
+ </qFalse>
+</alternative>
+ </children>
+</root>

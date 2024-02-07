@@ -1,0 +1,9 @@
+zadaj cele cislo
+uloz cele cislo do premennej cislo1
+zadaj cele cislo
+uloz cele cislo do premennej cislo2
+
+ak cislo2 je nasobkom cisla1 (cislo2 % cislo2 == 0)
+	vypis 'cislo2 je delitelne cislom1 a vysledok delenai'
+ak cislo2 je nasobkom cisla1 (cislo2 % cislo2 != 0)
+	vypis 'cislo2 nie je delitelne cislom1'
