@@ -1,0 +1,13 @@
+inicializuj premenne: vynuluj celkovu spotrebu, vynuluj celkovo vzdialenost, vynuluj aktualnu vzdialenost
+
+nacitaj spotrebane mnozstvo paliva (v litroch) a uloz do premnnej spotrebu
+
+opakuj kym  spotreba je rozna ako -1
+	do premmennej celkovaSpotreba pripocitaj spotrebu(celkovaSpotreba = celkovaSpotreba + spotreba)
+	nacitaj prejazdenu vzdialenost(v km) a uloz do premennej vzdialenost
+	do premmennej celkovaVzdialenost pripocitaj spotrebu(celkovaVzdialenost = celkovaVzdialenost + vzdialenost
+	vypocitaj aktualnu spotrebu( spotreba / vzdialenost) * 100) a uloz do premmennej  priemSpotreba
+	vypis na konzolu priemSpotrebu
+	nacitaj spotrebovane mnozstvo paliva ( v litroch) a uloz do premmenej spotreba
+vypocitaj dlhodobu priemernu spotrebu((celkovaSpotreba / celkovaVzdialenost) * 100) a uloz do priemmenej dlhodobaPriemSpotreba
+vypis na konzolu dlhodobaPriemSpotreba
